@@ -2,7 +2,7 @@
 
 Standalone, unofficial save editor for Minecraft Dungeons II.
 
-**Windows: 1.0.2 · Linux: 1.0.1 preview · Target game version: v1.1.1.0**
+**Windows: 1.0.2 · Linux: 1.0.1 · Target game version: v1.1.1.0**
 
 ## Downloads
 

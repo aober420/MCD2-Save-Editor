@@ -7,7 +7,7 @@ Standalone, unofficial save editor for Minecraft Dungeons II.
 ## Downloads
 
 - [Windows 1.0.2](https://github.com/aober420/MCD2-Save-Editor/releases/tag/v1.0.2)
-- [Linux 1.0.1](https://github.com/aober420/MCD2-Save-Editor/releases/tag/v1.0.1) — native Linux x64 preview for Bazzite and SteamOS Desktop Mode; testing on a Linux device is still needed.
+- [Linux 1.0.1](https://github.com/aober420/MCD2-Save-Editor/releases/tag/v1.0.1) — native Linux x64 for Bazzite and SteamOS Desktop Mode; testing on a SteamOS device is still needed.
 
 Extract the ZIP before running the editor.
 

@@ -27,3 +27,4 @@ Close the game before saving and keep a manual backup of your save folder. Launc
 This release uses the existing editor UI. The redesigned UI remains under development and is not included.
 
 Unofficial fan project; not affiliated with Mojang or Microsoft.
+.
